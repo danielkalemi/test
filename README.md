@@ -2,7 +2,7 @@
  ~ This PROGRAM is part of the final project in CS 105 ~
  * SUBJECT: CS-105: Introduction to Programming I
  * TITLE: FINAL PROJECT- 7 MENU OPTION
- * AUTHOR: DANIEL KALEMI
+ * 
  * DATE: 27/11/2017   (ACADEMIC YEAR 2017-2018- FALL SEMESTER)
  * 
  * DESCRIPTION: This program displays to the user 7 menu options, each of them calculating & presenting different exercieses
@@ -18,5 +18,5 @@
  * ALSO IN THIS CODE YOU CAN SEE THAT THE MENU OPTION IS BUILT BASED ON IF-ELSE STATEMENTS
  * THE EXCERCIESES HAD DIFFERENT WAYS TO SOLVE THEM, BUT I TRIED TO COMBINE THEM, FROM THE LONGEST WAYS, TO ARRAYS AND ALSO A METHOD IMPLEMENTED IN THE SIXTH OPTION.
  * 
- * @author Daniel Kalemi kalemi.daniel@gmail.com
+ *
  *  Licensed under the GNU public license open source agreement.
